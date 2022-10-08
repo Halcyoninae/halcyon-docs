@@ -1,13 +1,5 @@
 com.jackmeng.halcyoninae.cloudspin
-com.jackmeng.halcyoninae.cloudspin.enums
-com.jackmeng.halcyoninae.cloudspin.helpers
 com.jackmeng.halcyoninae.cloudspin.lib
-com.jackmeng.halcyoninae.cloudspin.lib.blurhash
-com.jackmeng.halcyoninae.cloudspin.lib.boxblur
-com.jackmeng.halcyoninae.cloudspin.lib.domclr
-com.jackmeng.halcyoninae.cloudspin.lib.gradient
-com.jackmeng.halcyoninae.cloudspin.lib.hinter
-com.jackmeng.halcyoninae.cloudspin.lib.swing
 com.jackmeng.halcyoninae.cosmos
 com.jackmeng.halcyoninae.cosmos.components
 com.jackmeng.halcyoninae.cosmos.components.bottompane
@@ -29,12 +21,9 @@ com.jackmeng.halcyoninae.cosmos.tasks
 com.jackmeng.halcyoninae.cosmos.util
 com.jackmeng.halcyoninae.cosmos.util.bundles
 com.jackmeng.halcyoninae.halcyon
-com.jackmeng.halcyoninae.halcyon.cacher
-com.jackmeng.halcyoninae.halcyon.command
 com.jackmeng.halcyoninae.halcyon.runtime
 com.jackmeng.halcyoninae.halcyon.runtime.constant
 com.jackmeng.halcyoninae.halcyon.utils
 com.jackmeng.halcyoninae.setup
 com.jackmeng.halcyoninae.tailwind
 com.jackmeng.locale
-com.jackmeng.locale.jobs
